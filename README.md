@@ -14,6 +14,11 @@
 - 🎮 Discord: Eva1ent#2390
 - 📧 Mail: nicified@hotmail.com
 
+### Posts
+
+- [[译] 新的 V8 编译器让 Chrome 91 提速 23%](https://github.com/Nicify/Nicify/discussions/22)
+- [给 Gatsby 网页加上 TOC 并与页面滚动同步](https://github.com/Nicify/Nicify/discussions/20)
+- [[译] 给 React 开发者的 CSS 变量教程](https://github.com/Nicify/Nicify/discussions/18)
+- [[译] Styled Components 的精髓](https://github.com/Nicify/Nicify/discussions/17)
+
 ### Projects
-- NVTool - Video encoding tool with a nice GUI based on NVEnc. #Go #OpenGL #GLFW #ImGui
-- React JSBox - A custom React renderer for JSBox. #React Reconciler #iOS UIKit #iOS Runtime
