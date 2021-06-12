@@ -23,4 +23,4 @@
 
 ### Projects
 
-![]('./assets/arrow_down.svg')
+![](./assets/arrow_down.svg)
