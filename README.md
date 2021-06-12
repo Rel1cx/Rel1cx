@@ -22,3 +22,5 @@
 - [[译] Styled Components 的精髓](https://github.com/Nicify/Nicify/discussions/17)
 
 ### Projects
+
+![]('./assets/arrow_down.svg')
