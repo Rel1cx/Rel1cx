@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I’m Eva1ent.
 
-<!--
-**Nicify/Nicify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- AKA: Nicify, Xiong Chen
+- Pronouns: he/him
+- Location: WuHan China
+- Language: Chinese
+- Interests: Programming, Gaming, Modding, Overclocking and more
 
-Here are some ideas to get you started:
+### Contact
+- 📞 +1 262 346 1834
+- 💬 Telegram: @Eva1ent
+- 💻 GitHub: @Nicify
+- 🎮 Steam: Eva1ent
+- 🎮 Discord: Eva1ent#2390
+- 📧 Mail: nicified@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- NVTool - Video encoding tool with a nice GUI based on NVEnc. #Go #OpenGL #GLFW #ImGui
+- React JSBox - A custom React renderer for JSBox. #React Reconciler #iOS UIKit #iOS Runtime
