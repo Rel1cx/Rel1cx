@@ -6,10 +6,6 @@
 - Language: Chinese
 - Interests: Programming, Gaming, Modding, Overclocking and more
 
-### Metrics
-
-![Metrics](https://metrics.lecoq.io/karminski?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai)
-
 ### Contact
 - 📞 +1 262 346 1834
 - 💬 Telegram: @Eva1ent
@@ -25,6 +21,6 @@
 - [[译] 给 React 开发者的 CSS 变量教程](https://nicified.com/post/css-variables-for-react-devs)
 - [[译] Styled Components 的精髓](https://nicified.com/post/styled-components-happy-path)
 
-### Projects
+### Metrics
 
-![](./assets/arrow_down.svg)
+![Metrics](https://metrics.lecoq.io/karminski?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai)
