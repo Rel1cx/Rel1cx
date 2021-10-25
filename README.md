@@ -5,12 +5,12 @@
 - Interests: Programming, Gaming, Modding, Overclocking and more
 
 ### Contact
-- 📞 +1 262 346 1834
+- 📞 +60 1129676387
 - 💬 Telegram: @Eva1ent
 - 💻 GitHub: @Nicify
 - 🎮 Steam: Eva1ent
 - 🎮 Discord: Eva1ent#2390
-- 📧 Mail: nicified@hotmail.com
+- 📧 Mail: let@ik.me
 
 ### Metrics
 
