@@ -5,7 +5,6 @@
 - Interests: Programming, Gaming, Modding, Overclocking and more
 
 ### Contact
-- 📞 +60 1129676387
 - 💬 Telegram: @Eva1ent
 - 💻 GitHub: @Nicify
 - 🎮 Steam: Eva1ent
