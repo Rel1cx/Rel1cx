@@ -8,7 +8,7 @@
 - 💬 Telegram: @Eva1ent
 - 💻 GitHub: @Nicify
 - 🎮 Steam: Eva1ent
-- 🎮 Discord: Eva1ent#2390
+- 🎮 Discord: Eva1ent#2590
 - 📧 Mail: let@ik.me
 
 ### Metrics
