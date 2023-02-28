@@ -1,0 +1,9 @@
+name: Metrics
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.svg
+  token: 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
+  base: ""
+  plugin_topics: yes
+  plugin_topics_limit: 0
+  plugin_topics_mode: icons
