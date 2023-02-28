@@ -6,7 +6,6 @@
 
 ### Metrics
 
-
 ![starlists](./metrics.plugin.starlists.languages.svg)
 
 ![isocalendar](./metrics.plugin.isocalendar.fullyear.svg)
