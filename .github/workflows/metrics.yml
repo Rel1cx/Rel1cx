@@ -30,7 +30,7 @@ jobs:
         with:
           filename: metrics.svg
           base: ""
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
