@@ -1,7 +1,6 @@
 ### Hi there 👋, I’m Eva1ent.
 
-- Language: English, Chinese
-- Interests: Programming, Gaming, Modding, Overclocking and more
+Self-taught programmer, currently learning Rust. I am developing my skills in various backend and frontend technologies.
 
 ### Metrics
 
