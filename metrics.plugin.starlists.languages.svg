@@ -21,7 +21,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"/>
                                 </svg>
-                                🔤 Fonts
+                                Fonts
                             </h2>
                             <div class="count">9 repositories</div>
                             <div class="description"></div>
@@ -350,14 +350,13 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="281.5384615384615" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="281.5384615384615" y="0" width="41.53846153846154" height="8" fill="#00add8"/>
-                                        <rect mask="url(#languages-bar)" x="323.07692307692304" y="0" width="41.53846153846154" height="8" fill="#dea584"/>
-                                        <rect mask="url(#languages-bar)" x="364.6153846153846" y="0" width="23.076923076923077" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="387.6923076923077" y="0" width="13.846153846153847" height="8" fill="#f34b7d"/>
-                                        <rect mask="url(#languages-bar)" x="401.5384615384615" y="0" width="9.230769230769232" height="8" fill="#e34c26"/>
-                                        <rect mask="url(#languages-bar)" x="410.7692307692308" y="0" width="4.615384615384616" height="8" fill="#555555"/>
-                                        <rect mask="url(#languages-bar)" x="415.38461538461536" y="0" width="4.615384615384616" height="8" fill="#fcb32c"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="286.1538461538462" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="286.1538461538462" y="0" width="41.53846153846154" height="8" fill="#00add8"/>
+                                        <rect mask="url(#languages-bar)" x="327.6923076923077" y="0" width="41.53846153846154" height="8" fill="#dea584"/>
+                                        <rect mask="url(#languages-bar)" x="369.2307692307692" y="0" width="23.076923076923077" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="392.3076923076923" y="0" width="13.846153846153847" height="8" fill="#f34b7d"/>
+                                        <rect mask="url(#languages-bar)" x="406.15384615384613" y="0" width="9.230769230769232" height="8" fill="#e34c26"/>
+                                        <rect mask="url(#languages-bar)" x="415.3846153846154" y="0" width="4.615384615384616" height="8" fill="#555555"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -370,8 +369,8 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>65.59%</div>
-                                                <div>61★</div>
+                                                <div>66.67%</div>
+                                                <div>62★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -448,18 +447,6 @@
                                                 <div>2★</div>
                                             </small>
                                         </div>
-                                        <div class="field language details">
-                                            <div class="field">
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#fcb32c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                                </svg>
-                                                MDX
-                                            </div>
-                                            <small>
-                                                <div>1.08%</div>
-                                                <div>1★</div>
-                                            </small>
-                                        </div>
                                     </section>
                                 </div>
                             </div>
@@ -471,7 +458,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"/>
                                 </svg>
-                                Tools
+                                🛠️ Tools
                             </h2>
                             <div class="count">38 repositories</div>
                             <div class="description"></div>
