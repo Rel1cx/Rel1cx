@@ -1,6 +1,6 @@
 ### Hi there 👋, I’m Eva1ent.
 
-Self-taught programmer currently learning Rust, I am interested in a variety of client-side and front-end technologies.
+Self-taught programmer, interested in a variety of client-side and front-end technologies.
 
 - Pronouns: he/him/she/her
 - Languages: C, JavaScript, TypeScript, Rust, Zig
