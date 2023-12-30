@@ -1,46 +1,23 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Metrics
-
-# Controls when the workflow will run
 on:
-  schedule:
-    # Run at 00:00 on every day
-    - cron: '0 0 * * *'
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
-  # Allows you to run this workflow manually from the Actions tab
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["main"]}
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  github-metrics:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    permissions:
+      contents: write
     steps:
-      - name: Full-year calendar
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-      # - name: Featured star list languages
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: metrics.plugin.starlists.languages.svg
-      #     token: ${{ secrets.GITHUB_TOKEN }}
-      #     base: ""
-      #     plugin_starlists: yes
-      #     plugin_starlists_languages: yes
-      #     plugin_starlists_limit: 5
-      #     plugin_starlists_limit_languages: 8
-      #     plugin_starlists_limit_repositories: 0
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_ignored: >-
+            html, css, scss, markdown, mdx
+          plugin_languages_limit: 6
