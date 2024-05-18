@@ -3,7 +3,7 @@
 Full-time opensource developer, interested in TypeScript, Rust and Linting Tools.
 
 - Pronouns: he/him/she/her
-- Languages: TypeScript, Rust, Nix
+- Languages: TypeScript, Rust
 - Twitter: [@Rel1cx](https://twitter.com/Rel1cx)
 - Mastodon <https://mastodon.social/@Rel1cx>
 
