@@ -1,6 +1,6 @@
 ### Hi there 👋, I’m Eva1ent
 
-Not quite right in the brain, interested in TypeScript, Rust and Nix languages.
+Full-time opensource developer, interested in TypeScript, Rust and Linting Tools.
 
 - Pronouns: he/him/she/her
 - Languages: TypeScript, Rust, Nix
