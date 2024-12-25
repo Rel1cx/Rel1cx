@@ -1,5 +1,5 @@
-### Hi there 👋, I’m Eva1ent
+### Hi there 👋, I’m rEl1cx
 
-Independent developer, interested in TypeScript and Linting Tools.
+Independent developer, TypeScript and Linting Tools.
 
 ![metrics](github-metrics.svg)
