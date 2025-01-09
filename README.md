@@ -1,5 +1,3 @@
 ### Hi there 👋, I’m rEl1cx
 
-Independent developer, TypeScript and Linting Tools.
-
-![metrics](github-metrics.svg)
+Indie developer, former senior front-end architect, currently working on React tooling.
