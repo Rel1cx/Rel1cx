@@ -4,8 +4,8 @@ Open-source developer and former senior frontend architect.
 
 ### My projects
 
-- [eslint-react](https://github.com/Rel1cx/eslint-react)
 - [tsl-react](https://github.com/react-analyzer/tsl-react)
+- [eslint-react](https://github.com/Rel1cx/eslint-react)
 
 ### Support me
 
