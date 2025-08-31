@@ -1,3 +1,15 @@
 ### Hi there 👋, I’m Rel1cx
 
-Open-source developer, former senior frontend architect (with Asperger Syndrome who may use unconventional wording in responses).
+Open-source developer and former senior frontend architect.
+
+### My projects
+
+- [eslint-react](https://github.com/Rel1cx/eslint-react)
+- [tsl-react](https://github.com/react-analyzer/tsl-react)
+
+### Support me
+
+Any amount helps!
+
+- ko-fi: [ko-fi.com/Rel1cx](https://ko-fi.com/Rel1cx)
+- Ethereum: 0x22A0A0D338ffC8221364208D7D56Cb0227e3B614
