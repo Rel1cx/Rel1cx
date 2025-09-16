@@ -1,6 +1,6 @@
 ### Hi there 👋, I’m Rel1cx
 
-Open-source developer and former senior frontend architect.
+Open-source developer, devtools, gamer
 
 ### My projects
 
