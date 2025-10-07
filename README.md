@@ -1,6 +1,8 @@
 ### Hi there 👋, I’m Rel1cx
 
-Open-source developer, devtools, gamer
+Open-source developer, dx, gamer
+
+NOTE: No affiliation with Meta or facebook/react project or team
 
 ### My projects
 
