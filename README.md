@@ -4,14 +4,10 @@ Open-source developer, dx, gamer
 
 NOTE: No affiliation with Meta or facebook/react project or team
 
-### My projects
-
 - [tsl-react](https://github.com/react-analyzer/tsl-react)
 - [eslint-react](https://github.com/Rel1cx/eslint-react)
 
-### Support me
-
-Any amount helps!
+### Support my work
 
 - ko-fi: [ko-fi.com/Rel1cx](https://ko-fi.com/Rel1cx)
 - Ethereum: 0x22A0A0D338ffC8221364208D7D56Cb0227e3B614
